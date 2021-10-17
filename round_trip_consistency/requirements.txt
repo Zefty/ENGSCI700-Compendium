@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+sentencepiece
+tqdm
+sentence-transformers
+scipy
